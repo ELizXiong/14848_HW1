@@ -13,7 +13,7 @@
 ## Managing Merge Conflicts Lab
 ![](Managing_merge_conflicts.png?raw=true)
 
-## Security on GitHub Lab (Extra Credits)
+## Security Your Workflows Lab (Extra Credits)
 ![](security_on_github1.png?raw=true)
 ![](security_on_github.png?raw=true)
 
